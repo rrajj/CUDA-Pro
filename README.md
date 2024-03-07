@@ -1,2 +1,2 @@
 # Learning CUDA Programming  
-This repo I am going to maintain code written in CPP, while learning CUDA.
+This repo I am going to maintain code while learning CUDA.
